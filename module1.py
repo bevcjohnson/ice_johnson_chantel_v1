@@ -1,0 +1,4 @@
+
+hometown = 'Glenpool'
+
+print(hometown)
